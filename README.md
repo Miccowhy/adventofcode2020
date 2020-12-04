@@ -10,11 +10,12 @@ Tasks will probably be solved mostly in Python (currently using 3.9), but I'll t
 | Day 1 | ⭐⭐ | **Python** |
 | Day 2 | ⭐⭐ | **Python** |
 | Day 3 | ⭐⭐ | **Python** |
+| Day 4 | ⭐⭐ | **Python** |
 
 **Emphasized** language was the first solution.
 
 ## Summary of languages used
 | Language | Days solved |
 |----------|:-----------:|
-| Python   | 3 |
+| Python   | 4 |
 
