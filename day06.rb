@@ -1,7 +1,6 @@
 require 'set'
 
 input_file = ARGV[0]
-
 groups = File.read(input_file).split("\n\n")
 
 puts groups.reduce(0) { | sum, group | sum + group.scan(/[a-z]/).uniq.length }
