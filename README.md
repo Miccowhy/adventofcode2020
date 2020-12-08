@@ -14,6 +14,7 @@ Tasks will probably be solved mostly in Python (currently using 3.9), but I'll t
 | Day 5 | ⭐⭐ | **Ruby**, Python |
 | Day 6 | ⭐⭐ | **Ruby**, Python |
 | Day 7 | ⭐   | Ruby |
+| Day 8 | ⭐⭐ | **Ruby** |
 
 **Emphasized** language was the first solution.
 
@@ -21,4 +22,4 @@ Tasks will probably be solved mostly in Python (currently using 3.9), but I'll t
 | Language | Days solved |
 |----------|:-----------:|
 | Python   | 6 |
-| Ruby     | 3.5 |
+| Ruby     | 4.5 |
